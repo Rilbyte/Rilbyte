@@ -1,9 +1,10 @@
 
 ![Ariel Pratama](img/github-header-banner.png)
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+</p>
+
 <!--
 **Rilbyte/Rilbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
