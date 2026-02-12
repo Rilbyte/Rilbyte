@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 
-##### 🌐Connect With Me:
-![https://www.instagram.com/takeyo_o](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@ar.dev2?_r=1&_t=ZS-93rN0tPjpQo](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/takeyo_o) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ArielPratama-x3w) 
+##### 🌐 Connect With Me:
 
-#### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rilbyte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/takeyo_o) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ar.dev2)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/takeyo_o) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@ArielPratama-x3w)
+
+#### 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=Rilbyte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rilbyte&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rilbyte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
