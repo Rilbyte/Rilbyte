@@ -1,4 +1,5 @@
 ## Hello World! I'm Ariel Pratama 👋
+![Ariel Pratama](img/github-header-banner.png)
 
 <!--
 **Rilbyte/Rilbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
